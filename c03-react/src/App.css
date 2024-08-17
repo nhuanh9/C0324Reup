@@ -1,0 +1,12 @@
+.logo, .banner{
+  border: 1px solid lightgray;
+  height: 10vh;
+  text-align: center;
+  line-height: 10vh;
+}
+
+.left, .mid, .right{
+  border: 1px solid lightgray;
+  height: 80vh;
+  text-align: center;
+}
